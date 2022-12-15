@@ -1,3 +1,2 @@
-# TicTacToe
-Tic tac toe console program with bot.
-Written in C++. go away
+# C++ Projects
+Collection of small c++ projects I make. go away
