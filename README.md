@@ -1,2 +1,2 @@
 # C++ Projects
-Collection of small c++ projects I make. go away
+Collection of small C++ projects I made.
